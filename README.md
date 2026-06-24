@@ -20,7 +20,9 @@
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahadevo&theme=github" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadevo&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahadevo&show_icons=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadevo&layout=compact" />
 </p>
 
 ## Skills
