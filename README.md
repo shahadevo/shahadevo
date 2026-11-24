@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+
 
 
 ## 🛠️ Languages & Tools
@@ -70,18 +70,23 @@
 </p>
 
 ---
-
 ## 🤝 Connect With Me
 
 <p align="left">
 
-<a href="mailto:shahadalmshabeen@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="48" alt="Gmail"/>
+
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="YOUR_LINKEDIN_URL">
+
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="48" alt="LinkedIn"/>
+
+  </a>
 
 </p>
 
