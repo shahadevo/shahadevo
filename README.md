@@ -77,7 +77,7 @@
     <img src="https://img.icons8.com/color/96/gmail-new.png" width="48" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shahad-alotaibi-a5a05127/">
+  <a href="https://www.linkedin.com/in/shahad-alotaibi-a5a051276/">
     <img src="https://img.icons8.com/color/96/linkedin.png" width="48" alt="LinkedIn"/>
   </a>
 </p>
