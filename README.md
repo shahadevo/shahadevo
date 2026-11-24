@@ -46,25 +46,7 @@
 
 ---
 
-## 📈 My Learning Journey
 
-<p align="center">
-  <img src="https://progress-bar.dev/70/?title=Python%20%26%20Data%20Analysis&width=400&color=3776AB" />
-  <br/>
-  <img src="https://progress-bar.dev/75/?title=SQL&width=400&color=4479A1" />
-  <br/>
-  <img src="https://progress-bar.dev/65/?title=Data%20Visualization&width=400&color=F2C811" />
-  <br/>
-  <img src="https://progress-bar.dev/45/?title=Machine%20Learning&width=400&color=8B5CF6" />
-  <br/>
-  <img src="https://progress-bar.dev/60/?title=Power%20BI&width=400&color=F2C811" />
-  <br/>
-  <img src="https://progress-bar.dev/60/?title=Git%20%26%20GitHub&width=400&color=181717" />
-</p>
-
-<sub>Progress bars represent self-assessed learning progress, not formal proficiency measurements.</sub>
-
----
 
 ## 📊 GitHub Stats
 
