@@ -6,9 +6,6 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=C4B5FD&width=900&lines=Turning+Data+into+Insights;Learning+Python+%26+Machine+Learning;Exploring+Artificial+Intelligence" alt="Typing SVG" />
 </p>
-
----
-
 ---
 
 ## 👩🏻‍💻 About Me
@@ -28,60 +25,48 @@
 <p align="left">
 
 <a href="https://www.python.org/">
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 </a>
 
 <a href="https://git-scm.com/">
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 </a>
 
 <a href="https://github.com/">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
 
 <a href="https://www.postgresql.org/">
+
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
 </a>
 
 <a href="https://numpy.org/">
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
 </a>
 
 <a href="https://pandas.pydata.org/">
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
 </a>
 
 <a href="https://matplotlib.org/">
+
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+
 </a>
 
 </p>
-
----
-
-## 📈 My Learning Journey
-
-### 🐍 Python
-
-<img src="https://img.shields.io/badge/Python-Learning-A78BFA?style=for-the-badge&logo=python&logoColor=white" />
-
-### 📊 Data Analysis
-
-<img src="https://img.shields.io/badge/NumPy-Exploring-9333EA?style=for-the-badge&logo=numpy&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Pandas-Exploring-7C3AED?style=for-the-badge&logo=pandas&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Matplotlib-Exploring-6D28D9?style=for-the-badge&logo=plotly&logoColor=white" />
-
-### 🗄️ Databases
-
-<img src="https://img.shields.io/badge/PostgreSQL-Learning-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-### 🔧 Version Control
-
-<img src="https://img.shields.io/badge/Git-Practicing-A78BFA?style=for-the-badge&logo=git&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GitHub-Active-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 
 ---
 
