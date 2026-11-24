@@ -1,7 +1,7 @@
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=8B5CF6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Shahad+%F0%9F%91%8B;Information+Systems+Student;Data+Science+Enthusiast+%F0%9F%93%8A;Exploring+Generative+AI+%F0%9F%A4%96;Machine+Learning+Learner+%E2%9C%A8" alt="Typing SVG" />
-</h1>
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=8B5CF6&center=false&vCenter=false&width=750&lines=Hi%2C+I'm+Shahad+%F0%9F%91%8B;Information+Systems+Student;Data+Science+Enthusiast;Exploring+Generative+AI;Machine+Learning+Learner" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-8B5CF6?style=flat-square" />
@@ -35,14 +35,19 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,mysql,postgres,git,github,vscode,jupyter,html,css,js,figma&perline=7" alt="Skills and tools" />
-</p>
+
+<h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" alt="Pandas"/>
 </p>
+
 
 ---
 
