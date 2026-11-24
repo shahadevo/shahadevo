@@ -73,16 +73,11 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="45" alt="Gmail"/>
+  <a href="mailto:shahadalmshabeen@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="48" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="45" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/shahad-alotaibi-a5a05127/">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="48" alt="LinkedIn"/>
   </a>
-</p>
----
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=shahadevo&label=Profile%20Views&color=A78BFA&style=flat" />
 </p>
