@@ -1,13 +1,13 @@
 
-<!-- ===================== HEADER ===================== -->
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=A78BFA&width=900&lines=Hi+there%2C+I'm+Shahad+%F0%9F%91%8B;Data+Science+Enthusiast;Information+Systems+Student;Exploring+Generative+AI" alt="Typing SVG" />
+</h1>
 
-<img align="left" src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&text=Hi%20there,%20I'm%20Shahad%20👋&fontSize=35&fontColor=A78BFA&fontAlign=0&animation=twinkling" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=C4B5FD&width=900&lines=Turning+Data+into+Insights;Learning+Python+%26+Machine+Learning;Exploring+Artificial+Intelligence" alt="Typing SVG" />
+</p>
 
-<br clear="left"/>
-
-<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&left=true&width=850&lines=Information+Systems+Student;Data+Science+Enthusiast;Exploring+Generative+AI;Machine+Learning+Learner" alt="Typing SVG" />
-
-<br clear="left"/>
+---
 
 ---
 
