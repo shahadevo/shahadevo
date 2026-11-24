@@ -1,68 +1,60 @@
-<p align="left">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1200&color=A78BFA&width=1000&lines=Hi+there%2C+I'm+Shahad+%F0%9F%91%8B;Information+Systems+Student;Data+Science+Enthusiast;Exploring+Generative+AI;Machine+Learning+Learner"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1200&color=111827&width=1000&lines=Hi+there%2C+I'm+Shahad+%F0%9F%91%8B;Information+Systems+Student;Data+Science+Enthusiast;Exploring+Generative+AI;Machine+Learning+Learner"
-    />
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1200&color=A78BFA&width=1000&lines=Hi+there%2C+I'm+Shahad+%F0%9F%91%8B;Information+Systems+Student;Data+Science+Enthusiast;Exploring+Generative+AI;Machine+Learning+Learner"
-      alt="Typing SVG"
-    />
-  </picture>
-</p>
 
-<h3 align="left">Information Systems | Data Science | Artificial Intelligence</h3>
+<!-- ===================== HEADER ===================== -->
 
-<p align="left">
-  <a href="mailto:shahadalmshabeen@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shahad-alotaibi-a5a051276/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<img align="left" src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&text=Hi%20there,%20I'm%20Shahad%20👋&fontSize=35&fontColor=A78BFA&fontAlign=0&animation=twinkling" />
+
+<br clear="left"/>
+
+<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&left=true&width=850&lines=Information+Systems+Student;Data+Science+Enthusiast;Exploring+Generative+AI;Machine+Learning+Learner" alt="Typing SVG" />
+
+<br clear="left"/>
 
 ---
 
 ## 👩🏻‍💻 About Me
 
-- 🎓 Information Systems student
-- 📊 Interested in Data Science and Data Analytics
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🐍 Learning Python for data analysis and data-driven solutions
-- 🗄️ Practicing SQL and database management
-- 🚀 Continuously learning, building, and improving my skills
+🎓 Information Systems student passionate about **Data Science, Artificial Intelligence, and technology-driven solutions.**
+
+- 📊 Interested in transforming data into meaningful insights.
+- 🐍 Exploring Python for data analysis and machine learning.
+- 🗄️ Practicing SQL and database management.
+- 🤖 Exploring Generative AI and machine learning.
+- 📈 Continuously learning and developing my technical skills.
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" width="55" alt="PostgreSQL"/>
-  </a>
-  <a href="https://numpy.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" alt="NumPy"/>
-  </a>
-  <a href="https://pandas.pydata.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" alt="Pandas"/>
-  </a>
-  <a href="https://matplotlib.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" alt="Matplotlib"/>
-  </a>
+
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</a>
+
+<a href="https://numpy.org/">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</a>
+
+<a href="https://matplotlib.org/">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+</a>
+
 </p>
 
 ---
@@ -70,64 +62,65 @@
 ## 📈 My Learning Journey
 
 ### 🐍 Python
-<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+
+<img src="https://img.shields.io/badge/Python-Learning-A78BFA?style=for-the-badge&logo=python&logoColor=white" />
 
 ### 📊 Data Analysis
-<img src="https://img.shields.io/badge/NumPy-Exploring-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-Exploring-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-Exploring-11557c?style=flat-square" alt="Matplotlib"/>
+
+<img src="https://img.shields.io/badge/NumPy-Exploring-9333EA?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Pandas-Exploring-7C3AED?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Matplotlib-Exploring-6D28D9?style=for-the-badge&logo=plotly&logoColor=white" />
 
 ### 🗄️ Databases
-<img src="https://img.shields.io/badge/PostgreSQL-Learning-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-Learning-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ### 🔧 Version Control
-<img src="https://img.shields.io/badge/Git-Practicing-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-Active-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+
+<img src="https://img.shields.io/badge/Git-Practicing-A78BFA?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-Active-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="left">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=shahadevo&show_icons=true&theme=tokyonight&hide_border=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=shahadevo&show_icons=true&theme=default&hide_border=true"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=shahadevo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  </picture>
+<img src="https://github-readme-stats.vercel.app/api?username=shahadevo&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
 </p>
 
 <p align="left">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=shahadevo&theme=tokyonight&hide_border=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=shahadevo&theme=default&hide_border=true"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadevo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadevo&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" />
 </p>
 
 ---
 
-## 🌱 Currently Exploring
+## 🔥 Contribution Streak
 
-- Data Science
-- Python for Data Analysis
-- Machine Learning
-- Generative AI
-- SQL & Database Management
+<p align="left">
+<img src="https://streak-stats.demolab.com?user=shahadevo&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="mailto:shahadalmshabeen@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shahadevo&style=flat-square&color=8B5CF6" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=shahadevo&label=Profile%20Views&color=A78BFA&style=flat" />
 </p>
