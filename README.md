@@ -73,23 +73,14 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-
   <a href="mailto:YOUR_EMAIL@gmail.com">
-
-    <img src="https://img.icons8.com/color/96/gmail-new.png" width="48" alt="Gmail"/>
-
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="45" alt="Gmail"/>
   </a>
-
   &nbsp;&nbsp;&nbsp;
-
   <a href="YOUR_LINKEDIN_URL">
-
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="48" alt="LinkedIn"/>
-
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="45" alt="LinkedIn"/>
   </a>
-
 </p>
-
 ---
 
 <p align="left">
